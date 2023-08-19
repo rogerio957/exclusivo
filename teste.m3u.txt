@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF:-1
+https://stmv1.srvif.com/cinepix/cinepix/playlist.m3u8
+#EXTINF:-2
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+#EXTINF:-3
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+#EXTINF:-4
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:-5
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-6
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
